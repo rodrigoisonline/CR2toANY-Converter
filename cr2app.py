@@ -1,3 +1,10 @@
+
+"""  movtomp3_app.py
+     Credit: Rodrigo Sparrapan
+     sparodrigo82@gmail.com  
+     based on user manu. solution"""
+
+     
 import rawpy
 import imageio
 import glob, os
